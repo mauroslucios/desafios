@@ -33,17 +33,31 @@ A saída é o total de vendas por categoria.
 Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-Entrada	Saída
-Eletrônicos
+
+Entrada				              Saída
+Eletrônicos			            Vendas em Eletrônicos: 1500.0
 Celular, 5, 1000
 Fone de Ouvido, 10, 500
-Móveis
+
+Móveis				              Vendas em Móveis: 1200.0
 Mesa, 2, 800
-Cadeira, 4, 400	Vendas em Eletrônicos: 1500.0
-Vendas em Móveis: 1200.0
-Alimentos
+Cadeira, 4, 400	
+
+
+Alimentos			              Vendas em Alimentos: 340.0
 Arroz, 10, 200
 Feijão, 7, 140
-Jardinagem
+
+Jardinagem			            Vendas em Jardinagem: 160.0
 Planta, 2, 60
-Ferramentas, 1, 100	Vendas em Alimentos: 340.0
+Ferramentas, 1, 100	
+
+
+Livros                      Vendas em Livros: 170.0
+Aventuras no Tempo, 1, 80	  
+Mistérios do Oceano, 2, 90
+
+
+Esportes			              Vendas em Esportes: 330.0
+Tênis, 7, 210
+Bola, 3, 120
