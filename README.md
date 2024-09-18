@@ -34,30 +34,42 @@ Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 
-Entrada				              Saída
-Eletrônicos			            Vendas em Eletrônicos: 1500.0
-Celular, 5, 1000
-Fone de Ouvido, 10, 500
+# Relatório de Vendas por Categoria
 
-Móveis				              Vendas em Móveis: 1200.0
-Mesa, 2, 800
-Cadeira, 4, 400	
+## Entrada | Saída
 
+### Eletrônicos
+- Celular, 5, 1000
+- Fone de Ouvido, 10, 500
 
-Alimentos			              Vendas em Alimentos: 340.0
-Arroz, 10, 200
-Feijão, 7, 140
+**Vendas em Eletrônicos**: 1500.0
 
-Jardinagem			            Vendas em Jardinagem: 160.0
-Planta, 2, 60
-Ferramentas, 1, 100	
+---
 
+### Móveis
+- Mesa, 2, 800
+- Cadeira, 4, 400
 
-Livros                      Vendas em Livros: 170.0
-Aventuras no Tempo, 1, 80	  
-Mistérios do Oceano, 2, 90
+**Vendas em Móveis**: 1200.0
 
+---
 
-Esportes			              Vendas em Esportes: 330.0
-Tênis, 7, 210
-Bola, 3, 120
+### Alimentos
+- Arroz, 10, 200
+- Feijão, 7, 140
+
+**Vendas em Alimentos**: 340.0
+
+---
+
+### Jardinagem
+- Planta, 2, 60
+- Ferramentas, 1, 100
+
+**Vendas em Jardinagem**: 160.0
+
+---
+
+### Livros
+- Aventuras no Tempo, 1, 80
+- Mistérios do Oceano, 
