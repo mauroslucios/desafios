@@ -36,40 +36,31 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 # Relatório de Vendas por Categoria
 
-## Entrada | Saída
 
-### Eletrônicos
-- Celular, 5, 1000
-- Fone de Ouvido, 10, 500
+|Entrada			|Saída|
+|Eletrônicos			|Vendas em Eletrônicos: 1500.0|
+|Celular, 5, 1000		||
+|Fone de Ouvido, 10, 500	||
+|--------------------------------|--------------------------------|
+|Móveis				|Vendas em Móveis: 1200.0|
+|Mesa, 2, 800 | |
+|Cadeira, 4, 400 | |	
+|--------------------------------|--------------------------------|
 
-**Vendas em Eletrônicos**: 1500.0
+|Alimentos			|Vendas em Alimentos: 340.0|
+|Arroz, 10, 200| |
+|Feijão, 7, 140| |
+|--------------------------------|--------------------------------|
+|Jardinagem			|Vendas em Jardinagem: 160.0|
+|Planta, 2, 60| |
+|Ferramentas, 1, 100| |	
+|--------------------------------|--------------------------------|
 
----
+|Livros | Vendas em Livros: 170.0|
+|Aventuras no Tempo, 1, 80||	
+|Mistérios do Oceano, 2, 90||
+|--------------------------------|--------------------------------|
 
-### Móveis
-- Mesa, 2, 800
-- Cadeira, 4, 400
-
-**Vendas em Móveis**: 1200.0
-
----
-
-### Alimentos
-- Arroz, 10, 200
-- Feijão, 7, 140
-
-**Vendas em Alimentos**: 340.0
-
----
-
-### Jardinagem
-- Planta, 2, 60
-- Ferramentas, 1, 100
-
-**Vendas em Jardinagem**: 160.0
-
----
-
-### Livros
-- Aventuras no Tempo, 1, 80
-- Mistérios do Oceano, 
+|Esportes		|	Vendas em Esportes: 330.0|
+|Tênis, 7, 210| |
+|Bola, 3, 120| |	
